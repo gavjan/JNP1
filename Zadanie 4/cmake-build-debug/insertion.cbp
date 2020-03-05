@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="insertion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example">
+				<Option output="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 example"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example/fast">
+				<Option output="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 example/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/cgev/Desktop/CS/C++/JNP/Zadanie\ 4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/fibin.h">
+			<Option target="example"/>
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/fibin_example.cc">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/fibin_test.cc">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

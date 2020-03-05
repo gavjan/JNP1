@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/example.dir/fibin_example.cc.o  -o example 

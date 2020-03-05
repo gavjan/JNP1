@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cgev/Projects/CLionProjects/active/playlist/lib_playlist.h
+list
+-
+cassert
+-
+utility
+-
+vector
+-
+memory
+-
+
+/home/cgev/Projects/CLionProjects/active/playlist/main.cpp
+iostream
+-
+lib_playlist.h
+/home/cgev/Projects/CLionProjects/active/playlist/lib_playlist.h
+

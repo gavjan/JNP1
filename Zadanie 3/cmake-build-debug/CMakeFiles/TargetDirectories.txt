@@ -1,0 +1,3 @@
+/home/cgev/Desktop/CS/C++/JNP/Zadanie 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cgev/Desktop/CS/C++/JNP/Zadanie 3/cmake-build-debug/CMakeFiles/fibo.dir
+/home/cgev/Desktop/CS/C++/JNP/Zadanie 3/cmake-build-debug/CMakeFiles/edit_cache.dir

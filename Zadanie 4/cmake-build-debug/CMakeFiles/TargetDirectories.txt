@@ -1,4 +1,0 @@
-/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/CMakeFiles/example.dir
-/home/cgev/Desktop/CS/C++/JNP/Zadanie 4/cmake-build-debug/CMakeFiles/test.dir

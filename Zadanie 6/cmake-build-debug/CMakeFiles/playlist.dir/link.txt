@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/playlist.dir/playlist_example.cc.o  -o playlist 

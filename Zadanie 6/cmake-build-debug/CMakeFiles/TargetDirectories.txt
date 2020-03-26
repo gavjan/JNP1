@@ -1,4 +1,0 @@
-/home/cgev/Projects/CLionProjects/active/playlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cgev/Projects/CLionProjects/active/playlist/cmake-build-debug/CMakeFiles/playlist.dir
-/home/cgev/Projects/CLionProjects/active/playlist/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cgev/Projects/CLionProjects/active/playlist/cmake-build-debug/CMakeFiles/main.dir

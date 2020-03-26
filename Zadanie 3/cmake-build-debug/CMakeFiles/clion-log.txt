@@ -1,4 +1,0 @@
-/home/cgev/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" "/home/cgev/Desktop/CS/C++/JNP/Zadanie 3"
--- Configuring done
--- Generating done
--- Build files have been written to: /home/cgev/Desktop/CS/C++/JNP/Zadanie 3/cmake-build-debug

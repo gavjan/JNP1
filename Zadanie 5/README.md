@@ -1,4 +1,4 @@
-#Dictionary task, JNP1 C ++ 2019/20
+#Dictionary in C++
 The goal of this task is to implement a container having pattern like a dictionary with the expected O(1) search time, at the same time having predictable order of key iterations, in the order in which they were added to the dictionary.
 
 This container should provide as much safety as possible on exceptions and copy-on-write semantics.

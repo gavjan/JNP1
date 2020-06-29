@@ -74,5 +74,5 @@ Fibin works fine!
 ## Functional Requirements
 This task requires the use of the Clang compiler, which prints very detailed error messages when using templates and metaprogramming. The solution will be compiled using the command
 ```shell script
-clang -Wall -Wextra -std = c ++ 17 -O2 -lstdc ++
+clang -Wall -Wextra -std=c++17 -O2 -lstdc++
 ```

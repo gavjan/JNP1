@@ -54,5 +54,5 @@ The lines are numbered from 1. Use the format exactly as stated in the example.
 
 The program will be compiled on the with the command:
 ```shell script
-g++ -Wall -Wextra -O2 -std = c ++ 17 cash.cc -o cash
+g++ -Wall -Wextra -O2 -std=c++17 kasa.cc -o kasa
 ```
